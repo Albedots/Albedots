@@ -16,11 +16,8 @@
 </div>
 
 #
-
-
-
 <div style="text-align: center;" align="center">
 <h2>My Stats</h2>
 <img src="https://github-readme-stats.vercel.app/api?username=Albedots&show_icons=true&count_private=true&theme=aura"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Albedots&layout=compact&theme=aura" alt="Most usage languages"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Albedots&theme=aura&layout=compact" alt="Most usage languages"/>
 </div>
