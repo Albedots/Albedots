@@ -1,4 +1,3 @@
-## Hi there 👋
 <div align="center">
 <a href="https://git.io/typing-svg">
 <img src="https://readme-typing-svg.demolab.com?font=arial&weight=500&size=30&pause=1000&color=831BFF&background=FFFFFF00&center=true&vCenter=true&random=false&width=435&lines=window.alert(%22Hello+World!%22);%2F%2F+Always+learning+new+things!">
